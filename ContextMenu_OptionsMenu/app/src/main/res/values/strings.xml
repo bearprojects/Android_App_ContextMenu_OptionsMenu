@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContextMenu_OptionsMenu</string>
+
+    <string name="click">請按我!</string>
+    <string name="hello">哈囉!</string>
+    <string name="contextmenu1">快顯1</string>
+    <string name="contextmenu2">快顯2</string>
+</resources>
